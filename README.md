@@ -1,5 +1,5 @@
 # PHP-MySQL-Login-System
-User login and registration system built using PHP and MySQL .
+Online Tattoo Studio built using PHP and MySQL .
 
 **Live Project URL -** [PHP-MySQL-Login-System](https://live-demo97.000webhostapp.com/)
 
